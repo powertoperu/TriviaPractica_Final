@@ -17,7 +17,7 @@ while iniciar_trivia==True: #Mientras inicia la trivia sera True
   intentos+=1
   puntaje=0
   # Lo primero es mostrar en pantalla el texto de bienvenida para quien juegue tu trivia
-  print ("Bienvenido a mi trivia sobre computación")
+  print ("Bienvenid@ a mi trivia sobre computación")
   print ("Pondremos a prueba tus conocimientos")
   print("Tienes", puntaje, "puntos")
   print("\n Intento número:",intentos)
